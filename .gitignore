@@ -1,0 +1,16 @@
+img/trash
+img/capturas-telas/old
+projetos/caso_de_uso/bkp
+projetos/classe/bkp
+projetos/mer/bkp
+projetos/modelo_fisico/bkp
+projetos/sequencia/admin/bkp
+projetos/sequencia/admin/trash
+projetos/sequencia/operador_de_caixa/projetos/trash
+projetos/sequencia/vendedor/projetos/trash
+projetos/sequencia/vendedor/png/trash
+projetos/Diagrama de Sequência Base(modelo limpo de base).juth
+projetos/create_db.sql
+*.bak
+
+
